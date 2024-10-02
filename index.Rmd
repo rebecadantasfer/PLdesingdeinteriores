@@ -1,0 +1,330 @@
+---
+title: "Relatório PL Desing de Interiores"
+date: "27-09-2024"
+output: html_document
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+## **Projeto de Lei 1271/2023 - Design de Interiores**
+
+> ### Sumário
+>
+> ##### [Tramitação](#tramitação-1)
+>
+> ##### [Riscos para o CAU/BR](#riscos-para-o-caubr-1)
+>
+> ##### [Ações do CAU/BR e andamentos](#ações-do-caubr-e-andamentos-1)
+>
+> ##### [Perfil das parlamentares](#perfil-das-parlamentares-1)
+>
+> ##### [Anexos](#anexos-1)
+
+## Tramitação {#tramitação-1}
+
+Há dois PLs no Congresso Nacional sobre o exercício da profissão de
+designer de interiores e ambientes:
+
+No Senado Federal: o [[PL 2375/2022]]{.underline}, já aprovado e enviado
+para a Câmara dos Deputados
+
+Na Câmara dos Deputados: o [[PL 1271/2023]]{.underline}.
+
+Ao chegar na Câmara, o PL 2375/2022 foi apensado ao PL 1271/2023.
+A diferença entre os textos é pontual.
+
+> ###### CONTEXTO: em 2016, foi sancionada a Lei 13.369/2016, que trata da a garantia do exercício da profissão de designer de interiores e ambientes. Todavia, naquele ano, dois artigos foram vetados, pois foram considerados inconstitucionais pela Presidência da República, por violar o [Artigo 5º, inciso XIII, da Constituição Federal:], que estabelece a livre escolha de qualquer ofício ou profissão.
+
+A aprecição dos projetos, a priori, será conclusiva nas comissões, ou
+seja, ele não vai ser deliberado no plenário. O PL está na Comissão do
+Trabalho (CTRAB), da Câmara dos Deputados. Se aprovado, será encaminhado
+para a Comissão de Constituição e Justiça e de Cidadania (CCJC), que
+avaliará a juridicidade, constitucionalidade, sem avaliar o mérito.
+
+A relatora da matéria na CTRAB é a Deputada ERIKA KOKAY (PT/DF). Quando
+o PL do Senado foi apensado ao PL da Câmara, a relatora já havia
+apresentado parecer (pela aprovação do PL), mas em consequência do novo
+apensado, deve apresentar um novo parecer considerando-o.
+
+| 1️⃣ Caso o texto do PL 2375/2022, do Senado, seja aprovado na Câmara sem alterações, o projeto seguirá para sanção presidencial;
+| 2️⃣ Caso seja aprovado PL com nova redação na Câmara, o texto deverá voltar para o Senado, para apreciação.
+
+## Riscos para o CAU/BR {#riscos-para-o-caubr-1}
+
+Designers de interiores passarem a exercer atividades que são
+específicas de Arquitetos e Urbanistas [(resolução CAU/BR 51 de
+2013)](https://transparencia.caubr.gov.br/arquivos/resolucao51-3.pdf);
+
+Os Designers de interiores poderem vir a se assegurar para exercer as
+atribuições da arquitetura de interiores baseados em futuras resoluções
+a serem expedidas pelo Confea ou pelo CFT;
+
+Tal fato poderá levar a necessidade do CAU/BR a proceder com ações
+jurídicas que podem ser dispendiosas e demoradas;
+
+Risco de alteração das Diretrizes Curriculares Nacionais (DCN) do Curso
+de Graduação em Design ([Res CNE nº
+5/2004](http://portal.mec.gov.br/cne/arquivos/pdf/rces05_04.pdf)), tendo
+como consequência o aumento de atribuições profissionais e a
+sobreposição com as atribuições do arquiteto e urbanista;
+
+O conjunto de atividades, atribuições e campos de atuação regulamentados
+nas Leis que regem os Conselhos Profissionais, tem estreita aderência
+com a regulamentação dos cursos de graduação, especialmente quando
+fixadas as DCN, que é o caso do curso de DESIGN. Sendo que a amplitude
+das atividades, atribuições e campos de atuação profissionais tem
+fundamentação fática se a formação acadêmica atender aos requisitos
+constantes nas Diretrizes Curriculares Nacionais. Atualmente as DCN de
+Design focam na capacidade criativa para projeto de DESIGN, ou seja,
+deixando a atuação restrita ao arranjo do espaço interno criado pela
+disposição de mobiliário não fixo, obras de arte, cortinas, e outros
+objetos, sem a alteração da estrutura do espaço arquitetônico.
+
+## Ações do CAU/BR e andamentos {#ações-do-caubr-e-andamentos-1}
+
+**2023**
+
+Após apresentação do parecer pela aprovação pela deputada Erika Kokay
+foram realizadas conversas com a deputada e foram apresentados alguns
+contrapontos relacionados a questão da violação do artigo 5º, inciso
+XIII, da Constituição Federal, que estabelece a livre escolha de
+qualquer ofício ou profissão.
+
+Foi proposto então à deputada que apresentasse um novo parecer
+rejeitando integralmente os projetos de lei 1.271 e 2.375.
+
+A deputada explicou que havia sido procurada pela Associação Brasileira
+da Design de Interiores que apresentaram suas considerações e explicaram
+que o fato dos novos projetos de lei ditarem que atividades descritas
+seriam garantidas aos designers, sem prejuízo ao exercício profissional
+de outras profissões regulamentadas, resolveria o problema da violação
+ao artigo 5º, inciso XIII da CF. Além disso, argumentaram que o fato de
+haver a fiscalização do CONFEA e do CFT traria ainda mais garantias para
+que o exercício das atividades sejam reguladas.
+
+A deputada Erika Kokay, solicitou que o CAU conversasse com a ABD para
+um acordo.
+
+**2024**
+
+O assunto do Projeto de Lei foi levado para discussões internas nas
+Comissões, tendo a CRI - CAU/BR como norteadora para formulação de um
+posicionamento do CAU/BR.
+
+-   11/04/2024: O CAU/BR e a ABD se reuniram em Brasília na tentativa de
+    uma aproximação institucional entre as entidades. Essa reunião
+    aconteceu presencialmente na sede do CAU/BR com participação da
+    Presidente Patrícia Sarquis e da assessoria institucional da ABD à
+    época, senhora Alini Jobim, em conjunto com o ex-assessor
+    institucional do Confea, Walter Bittar. O presidente da ABD Marcelo
+    Mujali, fez uma participação online. Apesar da aproximação, não
+    houve acordo em relação ao PL de Design de Interiores.
+
+-   23/05/2024: A presidente Patrícia realizou reunião presencial na
+    sede da ABD com o presidente Marcelo. Não houve participação de
+    outros assessores da ABD nessa reunião. Como resultado, o presidente
+    da ABD agradeceu a aproximação do CAU/BR porém salientou que as
+    conversações com o CONFEA estavam adiantadas e ressaltou a
+    importância de terem o projeto de Design Interiores aprovado.
+
+-   Julho: A assessoria da dep. Erika Kokay questionou sobre o acordo no
+    último. Fomos informados que a deputada quer apresentar o seu
+    parecer sobre a matéria
+
+-   26/07/2024: A presidente Patrícia Sarquis levou o assunto para
+    conhecimento de todos os Conselheiros na reunião plenária de 26 de
+    julho.
+
+O coordenador da CRI-CAU/BR, Kleyton Marinho, solicitou que o CAU/BR
+insira como sugestão de minuta substitutiva ao PL 1.271 um parágrafo
+acrescentando texto idêntico ao art 3 da lei 12.378 de 2010, adaptado
+aos Design de Interiores:
+
+> ##### *“Os campos da atuação profissional para o exercício de Design de Interiores são definidos a partir das diretrizes curriculares nacionais que dispõem sobre a formação do profissional do Designer de Interiores nas quais os núcleos de conhecimentos de fundamentação e de conhecimentos profissionais caracterizam a unidade de atuação profissional”*
+
+-   13/08/2024: Reunião da CRI-CAU/BR definiu que esse parágrafo, que
+    poderá ser sugerido para ser incluído no substitutivo da deputada
+    Erika Kokay, fosse analisado e discutido pelo Fórum de Presidentes
+    nos dias 22 e 23/08.
+
+-   20/08/2024: Uma conversa sobre o assunto foi realizada com a
+    deputada Erika Kokay para explicar sobre todas as tratativas tidas
+    até o momento e sobre o que o CAU/BR pretende propor sobre o
+    assunto. A deputada solicitou que antes de oferecermos a ela a
+    sugestão de substitutivo que façamos uma agenda com a deputada Laura
+    Carneiro, autora do projeto de lei na Câmara explicando nosso
+    posicionamento.
+
+-   28/08/2024: antes da Reunião Plenária de agosto, a AIP em conjunto
+    com a ASJUR fizeram nova minuta de substitutivo, incluindo os
+    anseios do Fórum de Presidentes e da CRI. Contudo, por haver algumas
+    alterações no texto, além do pré acordado pelo Fórum de Presidentes
+    e pela CRI - CAU/BR. A minuta foi novamente submetida à CRI, na
+    reunião de 12 de setembro.
+
+-   04/09/2024: A ABD apresentou outra minuta de substitutivo à Deputada
+    Érika Kokay, solicitando aprovação urgente. A AIP realizou
+    comparativo entre as minutas:
+
+O novo substitutivo altera os cursos reconhecidos para o exercício da
+profissão de Design de Interiores. Seriam eles os formados em Design ou
+Composição de Interiores e os formados em Design e Composição de
+Ambientes. Esses profissionais terão que se registrar no CREA. A
+inovação vem com os Técnicos de Design de Interiores que poderão optar
+por se registrar no CREA ou no CRT. A nova proposta diz que o Confea
+poderá especificar os campos de atuação profissional para o exercício da
+profissão de Design de Interiores, conforme as atividades descritas na
+lei 13.369 e nas habilidades adquiridas na formação profissional. Para o
+caso dos técnicos, os campos de atuação serão exclusivamente definidas
+pelo CFT e, em caso de conflito com outro conselho profissional a
+controvérsia deverá ser resolvida por meio de resolução conjunta de
+ambos os conselhos.
+
+Existe a alteração da ementa da lei 13.369 que antes falava em
+reconhecimento da profissão e passa a disciplinar a profissão.
+
+A CRI elaborou nova proposta de substitutivo para ser levada ao
+conhecimento da deputada Laura Carneiro e da deputada Erika Kokay. A
+pretensão é de aprovar o texto desse substitutivo na Plenária de
+setembro do CAU/BR.
+
+## Perfil das parlamentares {#perfil-das-parlamentares-1}
+
+### Laura Carneiro (PSD/RJ)
+
+![](laura%20carneiro.jfif){width="208"}
+
+-   Atividade parlamentar (Câmara dos Deputados): 2003- atual;
+
+-   Profissão: advogada;
+
+-   Já foi do PSDB, PMDB, PTB e DEM;
+
+-   Apoiou a criação de frentes parlamentares de interesse do CAU: da
+    Engenharia, Infraestrutura e Desenvolvimento Nacional, das Micro e
+    Pequenas Empresas; do sistema BIM e dos Conselhos Profissionais;
+
+-   Comissões em que é titular: Comissão de Defesa dos Direitos da
+    Mulher; Comissão de Previdência, Assistência Social, Infância,
+    Adolescência e Família; Comissões Especiais de Violência Obstétrica
+    e Morte Materna, de Combate ao Câncer no Brasil, da PEC 169/19 -
+    Acumulação de Cargo de Professor;
+
+    -   Comissões externas da Situação dos Municípios que Perderam
+        Recursos do FPM e do Acidente Avião VOEPASS Linhas Aéreas - Voo
+        2283 - ATR-72.
+
+-   Comissões em que é suplente: **Comissão de Constituição e Justiça e
+    de Cidadania**; **Comissão de Finanças e Tributação**.
+
+### Erika Kokay (PT/DF)
+
+![](erika%20kokay.jfif){width="237"}
+
+-   Atividade parlamentar (Câmara dos Deputados): 2011- atual;
+
+-   Profissão: bancária;
+
+-   Envolvida com o movimento sindicalista;
+
+-   Membro das frentes parlamentares mistas de Apoio à Habitação de
+    Interesse Social, Regularização Fundiária, Urbanização e Saneamento
+    para Favelas e Assentamentos Precários, em Apoio à Regularização
+    Fundiária, Desenvolvimento Habitacional e Desenvolvimento Urbano
+    Sustentável - FPDUS e em Defesa do Saneamento Básico;
+
+-   Comissões em que é titular: Comissão de Defesa dos Direitos das
+    Pessoas com Deficiência e Comissão de Direitos Humanos, Minorias e
+    Igualdade Racial.
+
+-   Comissões em que é suplente: **Comissão de Trabalho**, Comissão de
+    Cultura; Comissão de Previdência, Assistência Social, Infância,
+    Adolescência e Família; **Comissão de Administração e Serviço
+    Público**; Comissão de Legislação Participativa; Comissão de Defesa
+    dos Direitos da Mulher.
+
+## Anexos {#anexos-1}
+
+### PL 2375/2022
+
+Art. 1º A Lei nº 13.369, de 12 de dezembro de 2016, passa a vigorar acrescida
+dos seguintes arts. 3º-A e 7º-A:
+
+“Art. 3º-A. O exercício da profissão de designer de interiores e
+ambientes, em todo o território nacional, é assegurado aos titulares de
+diploma de curso superior reconhecido, expedido por instituição de ensino
+credenciada, em:
+
+I – Design de Interiores;
+II – Composição de Interior;
+III – Design de Ambientes.
+
+§ 1º O titular de diploma expedido por instituição de ensino
+credenciada só poderá exercer suas funções ou atividades após registro nos
+Conselhos Regionais de Engenharia e Agronomia (Crea).
+
+§ 2º O exercício das funções ou atividades descritas em lei, bem como
+o controle e a fiscalização desempenhados pelo Conselho Federal de
+Engenharia e Agronomia (Confea), são garantidos aos designers de
+interiores e ambientes sem prejuízo ao exercício profissional de outras
+profissões regulamentadas.”
+
+“Art. 7º-A. É assegurado por esta Lei, no âmbito de todo o território
+nacional, o exercício da profissão de técnico em design de interiores ao
+titular de diploma ou certificado de curso de técnico em Design de
+Interiores oficialmente reconhecido.
+
+Parágrafo único. O exercício das funções ou atividades do técnico em
+Design de Interiores será definido pelo Conselho Federal de Técnicos
+Industriais (CFT).”
+
+###### [Voltar à leitura](#tramitação-1)
+
+
+### PL 1271/2023
+
+“Art. 3-A O exercício da profissão de designer de interiores e
+ambientes, em todo o território nacional, é assegurado aos portadores de diploma de
+curso superior expedido por instituição de ensino oficialmente reconhecida em:
+
+I - Design de Interiores;
+II - Composição de Interior;
+III - Design de Ambientes.
+
+§ 1º O portador de diploma expedido por instituição de ensino
+estrangeira deverá revalidar a habilitação específica na forma da legislação pertinente
+em vigor.
+
+§ 2º O portador de diploma expedido por instituição de ensino
+oficialmente reconhecida só poderá exercer suas funções ou atividades após registro
+nos Conselhos Regionais de Engenharia e Agronomia – CREA.
+
+§ 3º O exercício das funções ou atividades descritas em lei,
+bem como o controle e fiscalização desempenhado pelo Conselho Federal de
+Engenharia e Agronomia – Confea, fica garantido aos designers de interiores sem
+prejuízo ao exercício profissional de outras profissões regulamentadas.
+
+Art. 7-A Fica assegurado por esta Lei, no âmbito de todo o
+território nacional, o exercício da profissão de técnico em design de interiores:
+
+I – ao titular de diploma ou certificado de curso de técnico em
+Design de Interiores oficialmente reconhecido;
+
+II – ao portador de diploma de habilitação específica,
+expedido por instituição de ensino estrangeira, revalidado na forma da legislação
+pertinente em vigor.
+
+Parágrafo único. O exercício das funções ou atividades do
+técnico em Design de Interiores serão definidas em resolução pelo Conselho Federal
+de Técnicos Industriais.”
+
+###### [Voltar à leitura](#tramitação-1)
+
+
+### Artigo 5º, inciso XIII, da Constituição Federal:
+
+é livre o exercício de qualquer trabalho, ofício ou profissão, atendidas
+as qualificações profissionais que a lei estabelecer
+
+###### [Voltar à leitura](#tramitação-1)
